@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Break Board_Rev02.PcbDoc   20-06-2022  18:29:28
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Break Board_Rev02-RoundHoles.TXT
+ASCII SlotHoles File : Break Board_Rev02-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             22        PTH        0.00inch (0.00mm)
+T2      16mil (0.4mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T3      18mil (0.451mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Slot              5         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+
+Total Processing Time (hh:mm:ss) : 00:00:00

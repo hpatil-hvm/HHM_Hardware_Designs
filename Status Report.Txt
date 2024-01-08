@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Break Board_Rev02.RUL]
+   Generated File[Break Board_Rev02.EXTREP]
+   Generated File[Break Board_Rev02.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:32:00 On 20-06-2022
